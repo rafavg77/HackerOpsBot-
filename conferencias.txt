@@ -6,5 +6,6 @@ DurivaCON - 25-26 de Julio (CDMX, MX)
 BlackHat USA - 1-6 de Agosto (Las Vegas, US)
 BSides LAS - 4-5 de Agosto (Las Vegas, US)
 DefCon 28 - 6-9 de Agosto (Las Vegas, US)
+DragonJAR Security Conference - 5-6 de Septiembre (Manizales, CO)
 BSides CDMX - Agenda Pendiente
 8dot8 CDMX - Agenda Pendiente
