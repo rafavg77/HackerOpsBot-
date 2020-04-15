@@ -1,0 +1,10 @@
+Conferencias de Seguridad 2020
+------------------------------
+OWASP Manizales - 13 de Abril (Manizales, CO) [Postpuesta]
+OWASP Riviera Maya - 28-30 de Mayo (Cozumel, MX) [Postpuesta]
+DurivaCON - 25-26 de Julio (CDMX, MX)
+BlackHat USA - 1-6 de Agosto (Las Vegas, US)
+BSides LAS - 4-5 de Agosto (Las Vegas, US)
+DefCon 28 - 6-9 de Agosto (Las Vegas, US)
+BSides CDMX - Agenda Pendiente
+8dot8 CDMX - Agenda Pendiente
